@@ -1,1 +1,1 @@
-<img src="wearher.mp4">
+<img src="weather.gif">
